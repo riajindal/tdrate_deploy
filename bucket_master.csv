@@ -1,0 +1,144 @@
+Tenure,General Rate,Bank Name
+7 - 14 days,2.75,Kotak
+15 - 30 days,3.0,Kotak
+31 - 45 days,3.25,Kotak
+46 - 90 days,3.5,Kotak
+91 - 120 days,4.0,Kotak
+121 - 179 days,4.25,Kotak
+180 days,7.0,Kotak
+181 days - 269 days,6.0,Kotak
+270 days,6.0,Kotak
+271 days - 363 days,6.0,Kotak
+364 days,6.5,Kotak
+365 days - 389 days,7.1,Kotak
+390 days ,7.2,Kotak
+391 days - less than 23 months,7.2,Kotak
+23 months,7.2,Kotak
+23 months 1 day - less than 2 years,7.2,Kotak
+2 years - less than 3 years,7.0,Kotak
+3 years - less than 4 years,6.5,Kotak
+4 years - less than 5 years,6.25,Kotak
+5 years - 10 years,6.2,Kotak
+7 - 14 days,3.0,HDFC
+15 - 30 days,3.0,HDFC
+31 - 45 days,3.5,HDFC
+46 - 90 days,4.5,HDFC
+91 - 120 days,4.5,HDFC
+180 days,5.75,HDFC
+271 days - 363 days,6.0,HDFC
+365 days - 389 days,6.6,HDFC
+391 days - less than 23 months,7.03,HDFC
+2 years - less than 3 years,7.07,HDFC
+3 years - less than 4 years,7.0,HDFC
+4 years - less than 5 years,7.12,HDFC
+5 years - 10 years,7.0,HDFC
+7 - 14 days,2.75,KOTAK
+15 - 30 days,3.0,KOTAK
+31 - 45 days,3.25,KOTAK
+46 - 90 days,3.5,KOTAK
+91 - 120 days,4.0,KOTAK
+121 - 179 days,4.25,KOTAK
+180 days,7.0,KOTAK
+181 days - 269 days,6.0,KOTAK
+270 days,6.0,KOTAK
+271 days - 363 days,6.0,KOTAK
+364 days,6.5,KOTAK
+365 days - 389 days,7.1,KOTAK
+390 days ,7.2,KOTAK
+391 days - less than 23 months,7.2,KOTAK
+23 months,7.2,KOTAK
+23 months 1 day - less than 2 years,7.2,KOTAK
+2 years - less than 3 years,7.0,KOTAK
+3 years - less than 4 years,6.5,KOTAK
+4 years - less than 5 years,6.25,KOTAK
+5 years - 10 years,6.2,KOTAK
+7 - 14 days,3.0,ICICI
+15 - 30 days,3.0,ICICI
+31 - 45 days,3.5,ICICI
+46 - 90 days,4.38,ICICI
+91 - 120 days,4.75,ICICI
+121 - 179 days,4.75,ICICI
+181 days - 269 days,5.75,ICICI
+271 days - 363 days,6.0,ICICI
+365 days - 389 days,6.7,ICICI
+391 days - less than 23 months,6.97,ICICI
+2 years - less than 3 years,7.0,ICICI
+3 years - less than 4 years,7.0,ICICI
+5 years - 10 years,6.9,ICICI
+7 - 14 days,3.0,AXIS
+15 - 30 days,3.0,AXIS
+31 - 45 days,3.5,AXIS
+46 - 90 days,4.38,AXIS
+91 - 120 days,4.75,AXIS
+121 - 179 days,4.75,AXIS
+181 days - 269 days,5.75,AXIS
+271 days - 363 days,6.0,AXIS
+365 days - 389 days,6.7,AXIS
+391 days - less than 23 months,6.93,AXIS
+2 years - less than 3 years,7.1,AXIS
+3 years - less than 4 years,7.1,AXIS
+5 years - 10 years,7.0,AXIS
+7 - 14 days,3.5,IDFC
+15 - 30 days,3.5,IDFC
+31 - 45 days,4.0,IDFC
+46 - 90 days,4.5,IDFC
+91 - 120 days,5.0,IDFC
+181 days - 269 days,6.5,IDFC
+365 days - 389 days,7.5,IDFC
+391 days - less than 23 months,7.25,IDFC
+2 years - less than 3 years,7.25,IDFC
+3 years - less than 4 years,7.0,IDFC
+5 years - 10 years,7.0,IDFC
+7 - 14 days,3.0,SBI
+46 - 90 days,4.5,SBI
+181 days - 269 days,5.5,SBI
+365 days - 389 days,6.8,SBI
+2 years - less than 3 years,7.0,SBI
+3 years - less than 4 years,6.5,SBI
+5 years - 10 years,6.5,SBI
+391 days - less than 23 months,7.1,SBI
+7 - 14 days,3.5,PNB
+15 - 30 days,3.5,PNB
+31 - 45 days,3.5,PNB
+46 - 90 days,4.5,PNB
+91 - 120 days,4.5,PNB
+181 days - 269 days,5.5,PNB
+271 days - 363 days,5.8,PNB
+365 days - 389 days,6.78,PNB
+391 days - less than 23 months,7.02,PNB
+2 years - less than 3 years,7.0,PNB
+3 years - less than 4 years,6.5,PNB
+5 years - 10 years,6.5,PNB
+7 - 14 days,3.0,BOB
+15 - 30 days,3.0,BOB
+46 - 90 days,4.5,BOB
+91 - 120 days,4.5,BOB
+181 days - 269 days,5.5,BOB
+391 days - less than 23 months,6.58,BOB
+271 days - 363 days,6.75,BOB
+365 days - 389 days,6.75,BOB
+2 years - less than 3 years,7.05,BOB
+3 years - less than 4 years,6.5,BOB
+5 years - 10 years,6.5,BOB
+7 - 14 days,4.0,CANARA
+46 - 90 days,5.25,CANARA
+91 - 120 days,5.5,CANARA
+181 days - 269 days,6.25,CANARA
+271 days - 363 days,6.5,CANARA
+365 days - 389 days,6.9,CANARA
+391 days - less than 23 months,7.25,CANARA
+2 years - less than 3 years,6.85,CANARA
+3 years - less than 4 years,6.8,CANARA
+5 years - 10 years,6.7,CANARA
+7 - 14 days,3.0,UNION
+15 - 30 days,3.0,UNION
+31 - 45 days,3.0,UNION
+46 - 90 days,4.05,UNION
+91 - 120 days,4.3,UNION
+121 - 179 days,4.4,UNION
+180 days,5.25,UNION
+365 days - 389 days,6.3,UNION
+391 days - less than 23 months,6.65,UNION
+2 years - less than 3 years,6.3,UNION
+3 years - less than 4 years,6.6,UNION
+5 years - 10 years,6.7,UNION

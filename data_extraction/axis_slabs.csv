@@ -1,0 +1,30 @@
+Tenure,General Rate,Senior Rate,Min Value,Max Value
+7 days - 14 days,3.0,3.50%,7,14
+15 days - 29 days,3.0,3.50%,15,29
+30 days - 45 days,3.5,4.00%,30,45
+46 days - 60 days,4.25,4.75%,46,60
+61 days - less than 3 months,4.5,5.00%,61,90
+3 months - less than 4 months,4.75,5.25%,90,120
+4 months - less than 5 months,4.75,5.25%,120,150
+5 months - less than 6 months,4.75,5.25%,150,180
+6 months - less than 7 months,5.75,6.25%,180,210
+7 months - less than 8 months,5.75,6.25%,210,240
+8 months - less than 9 months,5.75,6.25%,240,270
+9 months - less than 10 months,6.0,6.50%,270,300
+10 months - less than 11 months,6.0,6.50%,300,330
+11 months - 11 months 24 days,6.0,6.50%,330,354
+11 months 25 days - less than 1 year,6.0,6.50%,355,364
+1 year - 1 year 4 days,6.7,7.20%,365,369
+1 year 5 days - 1 year 10 days,6.7,7.20%,370,375
+1 year 11 days - 1 year 24 days,6.7,7.20%,376,389
+1 year 25 days - less than 13 months,6.7,7.20%,390,390
+13 months - less than 14 months,6.7,7.20%,390,420
+14 months - less than 15 months,6.7,7.20%,420,450
+15 months - less than 16 months,7.1,7.60%,450,480
+16 months - less than 17 months,7.1,7.60%,480,510
+17 months - less than 18 months,7.1,7.60%,510,540
+18 months - less than 2 years,7.1,7.60%,540,729
+2 years - less than 30 months,7.1,7.60%,730,900
+30 months - less than 3 years,7.1,7.60%,900,1094
+3 years - less than 5 years,7.1,7.60%,1095,1824
+5 years - 10 years,7.0,7.75%,1825,3650

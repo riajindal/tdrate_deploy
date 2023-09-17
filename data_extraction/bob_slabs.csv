@@ -1,0 +1,15 @@
+Tenure,General Rate,Senior Rate,Min Value,Max Value
+7 days - 14 days,3.0,3.50,7,14
+15 days - 45 days,3.0,3.50,15,45
+46 days - 90 days,4.5,5.00,46,90
+91 days - 180 days,4.5,5.00,91,180
+181 days - 210 days,5.25,5.75,181,210
+211 days - 270 days,5.75,6.25,211,270
+271 days & above and less than 1 year,5.75,6.25,635,635
+1 year,6.75,7.25,365,365
+Above 1 year - 400 days,6.75,7.25,365,400
+Above 400 days and up - 2 years,6.75,7.25,400,730
+Above 2 years and up - 3 years,7.05,7.55,730,1095
+Above 3 years and up - 5 years,6.5,7.15*,1095,1825
+Above 5 years and up - 10 years,6.5,7.50**,1825,3650
+399 days ,7.25,7.75,399,399

@@ -1,0 +1,10 @@
+Tenure,General Rate,Senior Rate,Min Value,Max Value
+7 days - 45 days,3.0,3.50%,7,45
+46 days - 179 days,4.5,5.00%,46,179
+180 days - 210 days,5.25,5.75%,180,210
+211 days - less than 1 year,5.75,6.25%,211,364
+1 year - less than 2 year,6.8,7.30%,365,729
+2 years - less than 3 years,7.0,7.50%,730,1094
+3 years - less than 5 years,6.5,7.00%,1095,1824
+5 years and up - 10 years,6.5,7.50%*,1825,3650
+400 days ,7.1,7.60%,400,400
